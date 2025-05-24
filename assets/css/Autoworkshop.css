@@ -361,7 +361,9 @@ html {
 
 /* Tour section */
 .tour-section {
-    background-color: black;
+    background-image: url('/assets/css/img/Car_accessories/vhs-fnaf.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .ticket-list {

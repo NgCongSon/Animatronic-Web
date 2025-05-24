@@ -18,7 +18,7 @@
         <div id="content" class="default-margin">
         <div id="tour" class="tour-section">
                 <div class="content-section">
-                    <h2 class="section-heading text-white">CAR ACCESSORIES</h2>
+                    <h2 class="section-heading text-white">ANIMATRONIC ACCESSORIES</h2>
                     <div class="section-sub-heading text-white">Feeling the difference!</div>
                     <ul class="ticket-list">
                         <li class="SteeringWheel" data-id="1">Steering wheel <span class="sold-out">Limited!</span></li>
